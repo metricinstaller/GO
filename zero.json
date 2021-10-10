@@ -1,0 +1,16 @@
+[
+  {
+    "API-friendly2unfriendly-name": "https://go.metricinstaller.com/friendly2unfriendly-name/api.json",
+    "API-ipsw.me": "https://api.ipsw.me/v2.1/(*1)/latest/info.json",
+    "API-0relay-1": "https://go.metricinstaller.com/zero-relay/ipsw-me.json",
+    "API-m1sta": "https://api.m1sta.xyz/betas/",
+    "API-m1sta": "https://api.m1sta.xyz/betas/(*2)",
+    "API-0relay-2": "https://go.metricinstaller.com/zero-relay/m1sta.json",
+    "*1": Device-ID,
+    "*2": "https://go.metricinstaller.com/zero-relay/ID.json",
+    "Simple-Info": "https://go.metricinstaller.com/simple-info.json",
+    "url-refresh": "https://go.metricinstaller.com/refresh/",
+    "url-refresh": "https://go.metricinstaller.com/error.json",
+    "refresh-active": true
+  }
+]
