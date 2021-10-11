@@ -37,6 +37,12 @@
     "iPhone 5s (Global)": "iPhone6,2",
     "iPhone 5 (Global)": "iPhone5,2",
     "iPhone 5 (GSM)": "iPhone5,1",
-    "iPhone": "iPhone",
+    "iPhone 4 (GSM / 2012)": "iPhone3,2",
+    "iPhone 4[S]": "iPhone4,1",
+    "iPhone 4 (CDMA)": "iPhone3,3",
+    "iPhone 4 (GSM)": "iPhone3,1",
+    "iPhone 3G[S]": "iPhone2,1",
+    "iPhone 3G": "iPhone1,2",
+    "iPhone 2G": "iPhone1,1"
   }
 ]
