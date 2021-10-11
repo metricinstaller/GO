@@ -1,9 +1,9 @@
-[
   {
     "iPhone": "https://go.metricinstaller.com/product/iPhone.json",
     "iPad": "https://go.metricinstaller.com/product/iPad.json",
     "iPod": "https://go.metricinstaller.com/product/iPod.json",
     "HomePod": "https://go.metricinstaller.com/product/HomePod.json",
     "AppleTV": "https://go.metricinstaller.com/product/AppleTV.json",
+    "AppleWatch": "https://go.metricinstaller.com/product/AppleWatch.json"
   }
 ]
