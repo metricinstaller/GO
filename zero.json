@@ -6,7 +6,7 @@
     "API-m1sta": "https://api.m1sta.xyz/betas/",
     "API-m1sta": "https://api.m1sta.xyz/betas/(*2)",
     "API-0relay-2": "https://go.metricinstaller.com/zero-relay/m1sta.json",
-    "*1": Device-ID,
+    "*1": Device ID,
     "*2": "https://go.metricinstaller.com/zero-relay/ID.json",
     "Simple-Info": "https://go.metricinstaller.com/simple-info.json",
     "url-refresh": "https://go.metricinstaller.com/refresh/",
